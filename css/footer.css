@@ -1,0 +1,18 @@
+#footer {
+  padding: 100px 0;
+  background: #2e2f42;
+}
+#footer .logo {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+#footer .logo span {
+  color: #f4f4fd;
+}
+#footer p {
+  max-width: 264px;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
