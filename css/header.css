@@ -35,7 +35,7 @@
 }
 
 .nav-link:hover,
-.nav-link:focus-visible {
+.nav-link:focus {
   color: #404bbf;
 }
 
@@ -72,6 +72,6 @@
 }
 
 .contacts-list a:hover,
-.contacts-list a:focus-visible {
+.contacts-list a:focus {
   color: #404bbf;
 }

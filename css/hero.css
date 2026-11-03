@@ -3,10 +3,7 @@
   margin: 0 auto;
   padding: 188px 0;
   background-image:
-    linear-gradient(
-      rgba(46, 47, 66, 0.7),
-      rgba(46, 47, 66, 0.7)
-    ),
+    linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
     url("../images/people-office.jpg");
   background-color: #2e2f42;
   background-repeat: no-repeat;
@@ -51,6 +48,6 @@
 }
 
 .hero-button:hover,
-.hero-button:focus-visible {
+.hero-button:focus {
   background-color: #404bbf;
 }
